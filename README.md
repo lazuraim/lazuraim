@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Привет! Меня зовут Наталия</h1>
+    <h3>Начинающий продакт-аналитик</h3>
+</div>
 
 <!--
 **lazuraim/lazuraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div id="header" align="center">
-    <h1>Привет! Меня зовут Наталия</h1>
-    <h3>Начинающий продакт-аналитик</h3>
-</div>
