@@ -1,12 +1,6 @@
 <div id="header" align="center">
-    <h1>Привет! Меня зовут Наталия</h1>
-    <h3>Начинающий продакт-аналитик</h3>
+    <h1>Junior Data Analyst</h1>
 </div>
-
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
-![Postgresql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg)
-;; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>
-;; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40"/>
 
 
                           
