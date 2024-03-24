@@ -3,6 +3,11 @@
     <h3>Начинающий продакт-аналитик</h3>
 </div>
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
+
 <!--
 **lazuraim/lazuraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
