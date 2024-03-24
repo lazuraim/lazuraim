@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<div id="header" align="center">
+    <h1>Привет! Меня зовут Наталия</h1>
+    <h3>Начинающий продакт-аналитик</h3>
+</div>
