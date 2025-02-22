@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Junior Data Analyst</h1>
+    <h1>Junior Data Scientist</h1>
 </div>
 
 
